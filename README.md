@@ -1,1 +1,1 @@
-# GenAI-impact-on-students
+# Diabetes-readmission-prediction
